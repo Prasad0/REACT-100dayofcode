@@ -16,7 +16,7 @@
     - Technical aspect of react
         - It component base architecture means every thing is divided in small components like header, footer, sidenav, main content
 
-        <img src="component.jpg" alt="MarineGEO circle logo" />
+        <img src="../component.jpg" alt="MarineGEO circle logo" />
 
         - Ability to resue code using component for example :- one button can be use as signup in navbar same button can be use for add to cart option and so on by simply passing right data.
     - React is declarative
@@ -31,6 +31,7 @@
 
 - step1 : create folder in vscode 
 - step2 : open terminal in vscode and write `npx create react app name-of-application(eg.facebook)`
+<img src="../react create app.jpg" alt="MarineGEO circle logo" />
 - step3 : once done with creating switch to the folder of react that you have created (cd folder-name)
 - step4 : start react app (npm start) 
 
