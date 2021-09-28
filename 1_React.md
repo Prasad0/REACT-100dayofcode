@@ -33,7 +33,7 @@
 - step2 : open terminal in vscode and write `npx create react app name-of-application(eg.facebook)`
 <img src="Img/react_create_app.jpg" alt="MarineGEO circle logo" />
 - step3 : once done with creating switch to the folder of react that you have created (cd folder-name)
-<img src="Img/change.jpg" alt="MarineGEO circle logo" />
+![](Img/change.jpg)
 - step4 : start react app (npm start) 
 
 Once done with all four step you will see the folder of react in that expand it and in src search App.js file and start editing and check the changes in browser
