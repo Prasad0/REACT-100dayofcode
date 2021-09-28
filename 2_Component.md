@@ -1,7 +1,8 @@
 # Component in React
 
 - In React Component represent the part of user interface
-        <img src="Img/ReactComponent.jpg" alt="MarineGEO circle logo" />
+        <!-- <img src="Img/ReactComponent.jpg" alt="MarineGEO circle logo" /> -->
+![](Img/ReactComponent.png)
 
 - In the above image we have five component 
     headers, sidenav, main content, footer and the main root component that contain many small component
