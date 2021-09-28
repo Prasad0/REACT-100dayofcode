@@ -44,7 +44,7 @@
 
 - step 1 :-  Create a folder name component and in that create a js file
 
-<img src="Img/functional component1.jpg" alt="MarineGEO circle logo" />
+<img src="Img/functional_component1.jpg" alt="MarineGEO circle logo" />
 
 - step 2 :- In Greet.js file import react and then create a function and export it so that it can be using within the application
 
