@@ -82,7 +82,8 @@ export default App;
 
 ```
 output: 
-<img src="Img/outputfunctionalcomponent.jpg" alt="MarineGEO circle logo" />
+
+![](Img/outputfunctionalcomponent.png)
 
 
 `Note:- If you are using default export i.e export default ComponentName then while importing in other file you can change the name and use it. But if you are using name export i.e export as a prefix to function then you have to use the exact same name while importing.`
