@@ -148,8 +148,34 @@ function App() {
 export default App;
 ```
 
+### Class Component
+
+- Class Component are basically es6 classes.
+- Simillar to functional component they receive props as input and return HTML(jsx)
+- Apart from this class component maintain `private internal state` that is they maintain a private information that can be used on by that component.
+
+![](Img/Class.png)
+
+`steps to create class component`
+
+```js
+import React, {Component} from 'react' //We need to import two things while creating class that is react and component
+
+//step:1- To make the class react component we need to extend component class from react
+class Welcome extend Component{     
+render(){      //class should return something that will be done by render method
+  return <h1>Hello</h1>
+}
+}
+export default Welcome
+
+//import this in App.js as done for functional you are done with class component
+```
+
+#### Difference between functional and Class Components
 
 
+![](Img/differencefunctionandclass.png)
 
 
 
